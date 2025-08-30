@@ -1,1 +1,2 @@
-Este es el texto que reemplaza todo el contenido de archivo1.txt en rama2
+Primer commit
+Cambio para RAMA 1
