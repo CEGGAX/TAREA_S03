@@ -1,1 +1,1 @@
-No se agregan líneas, se está modificando el contenido completo al usar > y no >>
+Primer commit\nCambio para RAMA 1\n
