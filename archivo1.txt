@@ -1,2 +1,3 @@
-Primer commit\nCambio para RAMA 1\n
+Primer commit
+Cambio para RAMA 1
 Se agregan más cambios
